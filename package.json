@@ -1,20 +1,33 @@
 {
-    "name": "reunion-backend",
-    "version": "0.0.0",
-    "private": true,
-    "scripts": {
-      "start": "node server.js"
-    },
-    "dependencies": {
-      "body-parser": "^1.18.2",
-      "cookie-parser": "^1.4.3",
-      "cors": "^2.8.4",
-      "debug": "^3.1.0",
-      "ejs": "^2.5.7",
-      "express": "^4.16.2",
-      "knex": "^0.13.0",
-      "morgan": "^1.9.0",
-      "pg": "^7.3.0"
-    }
-  }
-  
+  "name": "reunion-backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.5",
+    "debug": "^3.1.0",
+    "ejs": "^2.5.7",
+    "express": "^4.17.1",
+    "knex": "^0.13.0",
+    "morgan": "^1.9.0",
+    "pg": "^7.3.0"
+  },
+  "description": "undefined",
+  "main": "knexfile.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexTPina/reunion-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexTPina/reunion-backend/issues"
+  },
+  "homepage": "https://github.com/AlexTPina/reunion-backend#readme"
+}
